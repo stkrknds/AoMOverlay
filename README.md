@@ -5,3 +5,8 @@ Written in Python. The statistics of the players are fetched from the [Voobly AP
 
 ## Voobly API Key
 In order to use this application, you need to obtain a [Voobly API Key](https://www.voobly.com/pages/view/27/Developer-Membership-Types) and place it in line 6 of the file data.py.
+
+## Credits
+To prominent member of the AoM community, [DarthRevan24](https://liquipedia.net/ageofempires/DarthRevan24), for coming up with the idea.
+
+This overlay was inspired by another great overlay made for Age of Empires 4 by [aoe4world](https://github.com/aoe4world/overlay).
